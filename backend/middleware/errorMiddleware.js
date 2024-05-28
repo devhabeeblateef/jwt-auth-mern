@@ -23,4 +23,3 @@ res.status(statusCode).json({
 
 
 export { notFound, errorHandler }
-
