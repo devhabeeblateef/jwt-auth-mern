@@ -1,2 +1,4 @@
 # jwt-auth-mern
-This is a MERN Stack Project (MongoDB, Express, React and Node) using JWT for authentication and not storing cookies locally to prevent XSS Attaacks
+MERN authentication that stores a JWT in
+            an HTTP-Only cookie. It also uses Redux Toolkit and the React
+            Bootstrap library
